@@ -1,0 +1,11 @@
+h1{
+  color: #313131;
+  text-align: center;
+}
+h2{
+  text-shadow: 1px 1px black;
+  color: #111664;
+}
+li{
+background-image: url("images/tinym.png");
+}
