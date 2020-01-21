@@ -6,6 +6,6 @@ h2{
   text-shadow: 1px 1px black;
   color: #111664;
 }
-li{
+ol.tinym{
   list-style-image: url('../images/tinym.png');
 }
