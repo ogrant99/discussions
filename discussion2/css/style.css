@@ -7,5 +7,5 @@ h2{
   color: #111664;
 }
 li{
-background-image: url("images/tinym.png");
+  list-style-image: url('../images/tinym.png');
 }
